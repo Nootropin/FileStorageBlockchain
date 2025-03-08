@@ -22,3 +22,8 @@ cd build
 cmake .. 
 make 
 ```
+# ToDo List
+[-] Make more GUI feedback
+[-] Add tests with GTest
+[-] Write documentation for the code
+[-] Make edge cases handlers
